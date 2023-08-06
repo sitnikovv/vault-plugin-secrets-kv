@@ -4,9 +4,9 @@ import (
 	"os"
 
 	hclog "github.com/hashicorp/go-hclog"
-	kv "github.com/hashicorp/vault-plugin-secrets-kv"
 	"github.com/hashicorp/vault/api"
 	"github.com/hashicorp/vault/sdk/plugin"
+	kv "github.com/sitnikovv/vault-plugin-secrets-kv"
 )
 
 func main() {

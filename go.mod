@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault-plugin-secrets-kv
+module github.com/sitnikovv/vault-plugin-secrets-kv
 
 go 1.16
 
