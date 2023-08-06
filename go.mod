@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault-plugin-secrets-kv
+module stash.delta.sbrf.ru/secman/vault-plugin-secrets-kv
 
 go 1.20
 
