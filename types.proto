@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/hashicorp/kv";
+option go_package = "secman/kv";
 
 package kv;
 
